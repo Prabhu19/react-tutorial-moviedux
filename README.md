@@ -1,4 +1,4 @@
-# react-tutorial-moviedux REACT JS Tutorial
+# react-tutorial-moviedux REACTJS
 Udemy react-tutorial-moviedux
 
 ## Screenshots
